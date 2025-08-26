@@ -1,0 +1,10 @@
+A program to Calculate Area and Perimeter of a Rectangle
+#include <stdio.h>
+
+int main(){
+    int len= 15;
+    int brdth= 20;
+    printf("Area of Rectangle is %d \n", len*brdth);
+    printf("perimeter of Rectangle is %d \n", 2*(len+brdth));
+    return 0;
+}
