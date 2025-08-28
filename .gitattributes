@@ -1,0 +1,3 @@
+# Explicitly set .c and .h files as the C language
+*.c linguist-language=c
+*.h linguist-language=c
