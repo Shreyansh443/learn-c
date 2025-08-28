@@ -1,4 +1,4 @@
-A programme to enter two numbers and display their sum, difference, product, and quotient
+A programme to enter two numbers and display their sum, difference, product and quotient
 #include <stdio.h>
 
 int main() {
